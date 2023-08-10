@@ -6,7 +6,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noshinfaria&label=Profile%20views&color=0e75b6&style=flat" alt="noshinfaria" /> </p>
 
-- 🌱 I’m currently learning **Postman for software testing**
+- 🌱 I’m currently learning **React JS for Frontend Development and Postman for software testing**
 
 - 💬 Ask me about **Django, MySQL**
 
