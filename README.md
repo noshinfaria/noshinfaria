@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS for Frontend Development and Postman for software testing**
 
-- 💬 Ask me about **Django, MySQL**
+- 💬 Ask me about **Django, MySQL, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **noshinfariaprova@gmail.com**
 
