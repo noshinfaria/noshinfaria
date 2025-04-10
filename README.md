@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **noshinfariaprova@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1jPJQkzE-Mx34Q7eQMp_4-ueL1LRnfjs3/view?usp=sharing)
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
