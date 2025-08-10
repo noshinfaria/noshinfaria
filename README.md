@@ -6,7 +6,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noshinfaria&label=Profile%20views&color=0e75b6&style=flat" alt="noshinfaria" /> </p>
 
-- 💬 Ask me about **Django, MySQL, Machine Learning, Deep Learning**
+- 💬 Ask me about **Django, FastAPI, PostgreSQL, MongoDB, AI Agent, Machine Learning, Image Processing**
 
 - 📫 How to reach me **noshinfariaprova@gmail.com**
 
